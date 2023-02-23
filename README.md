@@ -9,5 +9,12 @@ The full Tableau story can be found here: [NYC CitiBike Presentation](https://pu
 Detailed charts and a summary of my review can be found in the subsequent images.
 
 ![Gender Breakdown](/images/Slide1.png)
+![Gender Breakdown](/images/Slide2.png)
+![Gender Breakdown](/images/Slide3.png)
+![Gender Breakdown](/images/Slide4.png)
+![Gender Breakdown](/images/Slide5.png)
+![Gender Breakdown](/images/Slide6.png)
+![Gender Breakdown](/images/Slide7.png)
+
 
 ## Summary
